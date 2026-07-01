@@ -4,8 +4,7 @@ An AI-powered fitness coaching application that performs **real-time exercise de
 
 The application leverages **MediaPipe Pose**, **OpenCV**, **Groq LLM**, **SQLite**, and **Streamlit** to provide an interactive AI fitness coaching experience.
 
-> **Live Demo:** https://your-streamlit-app.streamlit.app *(Replace with your deployed URL)*
-
+> **Live Demo:** https://ai-realtime-gym-trainers.streamlit.app/ 
 > **GitHub Repository:** https://github.com/dhruvlearner-05/AI-Realtime-Gym-Coach
 
 ---
