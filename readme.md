@@ -189,8 +189,3 @@ streamlit run main.py
 
 **Dhruv Jain**
 
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
