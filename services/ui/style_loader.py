@@ -40,7 +40,7 @@ def inject_webrtc_styles():
 
     with open(font_path, "rb") as font_file:
         encoded_font = base64.b64encode(font_file.read()).decode()
-
+  #(function patchWebRTCStyles() {})(); IIFE Immediate Invoked Function more like function expression + call 
     components.html(
         f"""
         <script>
